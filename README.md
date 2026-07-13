@@ -17,3 +17,10 @@ System Integration: The Clydesdale Protocol
 ​Logistics Mode: Handles bidirectional delivery (e.g., returning unsatisfactory items, fetching supplies).
 ​Dynamic Response: Responds to natural language commands (e.g., "Return to kitchen," "Take this back," "Follow me").
 ​Operating System Integration: The unit functions as an extension of the internal metacognition framework—it knows the house, it knows the users, and it knows the status of the "soup" or cargo it carries. It is the physical manifestation of the system's "willingness to serve."
+Infrastructure Addendum: Adaptive Logistics & Stabilization
+​Cargo Gimbal System (Gyro-Stabilization):
+​Function: Ensures all contents (liquids, hot meals) remain level and secure during transit on the helical coil elevation change.
+​Mechanism: Based on the M.A.D. Seat internal stabilization and gravity-pivot bowl principles.
+​Architectural Floor Integration (The Ramp Element):
+​Structural Note: Instead of static stairs, the coil utilizes an integrated, elevation-adaptive floor surface. The floor itself acts as a ramp that tracks with the coil’s pitch, allowing for smooth, continuous movement of the Clydesdale unit between foundry, living, and workshop levels.
+​Builder Responsibility: Engineering team to determine pitch-gradient and load-bearing dynamics based on helical travel requirements.
