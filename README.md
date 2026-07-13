@@ -10,3 +10,10 @@ Overview: An integration study exploring the conversion of a historical coastal 
 ​Features: Medieval "hoof-sound" audio feedback, autonomous routing between kitchen/foundry/Connor’s level, external navigation capabilities.
 ​Vertical Homesteading: Modular levels for multi-generational living, maintaining provenance and autonomy while enabling shared logistics (meals/deliveries).# Cenote-Lighthouse-Prototype
 my wishlist
+
+System Integration: The Clydesdale Protocol
+​Behavioral Logic: The Clydesdale operates on an autonomous "Companion/Errand" AI layer.
+​Companion Mode: Shadows the user/Connor, maintaining spatial awareness within the Coil structure.
+​Logistics Mode: Handles bidirectional delivery (e.g., returning unsatisfactory items, fetching supplies).
+​Dynamic Response: Responds to natural language commands (e.g., "Return to kitchen," "Take this back," "Follow me").
+​Operating System Integration: The unit functions as an extension of the internal metacognition framework—it knows the house, it knows the users, and it knows the status of the "soup" or cargo it carries. It is the physical manifestation of the system's "willingness to serve."
